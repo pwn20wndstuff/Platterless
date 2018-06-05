@@ -1,0 +1,9 @@
+Package: Platerless
+Name: Platterless
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Get a more transparent and a clean look on the iOS 10 control center.
+Maintainer: Pwn20wnd
+Author: Pwn20wnd
+Section: Tweaks
